@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Friends",
+      "poster": "https://fr.web.img2.acsta.net/pictures/18/11/13/14/05/2764761.jpg",
+      "plot": "Follows the personal and professional lives of six 20 to 30-something-year-old friends living in Manhattan.",
+      "imdbRating": "9.0"
+    },
+    {
+      "title": "Game of Thrones",
+      "plot": "Nine noble families fight for control over the mythical lands of Westeros. Meanwhile, a forgotten race hell-bent on destruction returns after being dormant for thousands of years.",
+      "poster": "https://labo.fnac.com/wp-content/uploads/2019/04/Dossier_GOT_000.jpg",
+      "imdbRating": "9.5"
+    },
+    {
+      "title": "Sherlock",
+      "plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "poster": "https://www.france.tv/image/vignette_16x9/400/225/c/f/4/eb4f5543-phpa7e4fc.png",
+      "imdbRating": "9.2"
+    }
+  ]
